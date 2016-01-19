@@ -155,7 +155,7 @@ function get_link(n) {
 function set_lastnode(n) {
 /*var d = new Date();
 var t_mil = d.getMilliseconds();*/
-// testattu nopeuksia explorerilla, ei merkitt�vi� eroja
+// testattu nopeuksia explorerilla, ei merkittäviä eroja
   if (lastnode==n) return; 
 /*  deactivate(lastnode)
   lastnode=n;
@@ -590,16 +590,27 @@ function searchText(aKeyword) {
     }
 }
 
-function prepareSearchField() {
+function prepareTop() {
     theTop = document.getElementsByClassName('basetop')[0];
     while(theTop.firstChild) {
         theTop.removeChild(theTop.firstChild);
     }
     
-    theInput = document.createElement('input');
-    theInput.setAttribute('type', 'text');
-    theInput.setAttribute('onkeyup', 'searchText(this.value)');
-    theTop.appendChild(theInput);
+    {
+        theDiv = document.createElement('div');
+        theTip = document.createTextNode('搜索单词，不要输入多个词');
+        theDiv.appendChild(theTip);
+        theTop.appendChild(theDiv);
+    }
+    
+    {
+        
+        theInput = document.createElement('input');
+        theInput.setAttribute('type', 'text');
+        theInput.setAttribute('onkeyup', 'searchText(this.value)');
+        theInput.setAttribute('placeholder', '例如登录、push等等')
+        theTop.appendChild(theInput);
+    }
 }
 
 function prepareOpenNewLink() {
@@ -616,7 +627,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
                           var first = _firstLI();
                           prepareNode(first);
                           prepareExpand();
-                          prepareSearchField();
+                          prepareTop();
                           prepareOpenNewLink();
                           });
 //  document.onkeypress = presstest;
