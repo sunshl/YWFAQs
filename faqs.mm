@@ -1,8 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1452596406077" ID="ID_188469445" MODIFIED="1452596406077" TEXT="&#xfeff;&#x5e38;&#x89c1;&#x95ee;&#x9898;&#x5206;&#x7c7b;">
-<node CREATED="1452596406077" ID="ID_188479445" MODIFIED="1453171235519" POSITION="right" TEXT="IM&#x6846;&#x67b6;&#x3001;&#x521d;&#x59cb;&#x5316;&#x3001;appkey&#x3001;&#x5e10;&#x53f7;(&#x8d26;&#x53f7;)&#x3001;&#x767b;&#x5f55;(&#x767b;&#x9646;)&#x53ca;&#x7528;&#x6237;Profile&#x76f8;&#x5173;">
-<node CREATED="1452596406077" ID="ID_188489445" LINK="http://bbs.aliyun.com/read/270334.html?spm=5176.bbsl285.0.0.fIFEBs" MODIFIED="1452596406077" TEXT="&#x521d;&#x59cb;&#x5316;">
+<node CREATED="1452596406077" FOLDED="true" ID="ID_188479445" MODIFIED="1453688595894" POSITION="right" TEXT="IM&#x6846;&#x67b6;&#x3001;&#x521d;&#x59cb;&#x5316;&#x3001;appkey&#x3001;&#x5e10;&#x53f7;(&#x8d26;&#x53f7;)&#x3001;&#x767b;&#x5f55;(&#x767b;&#x9646;)&#x53ca;&#x7528;&#x6237;Profile&#x76f8;&#x5173;">
+<node CREATED="1452596406077" FOLDED="true" ID="ID_188489445" LINK="http://bbs.aliyun.com/read/270334.html?spm=5176.bbsl285.0.0.fIFEBs" MODIFIED="1453688592420" TEXT="&#x521d;&#x59cb;&#x5316;">
 <node CREATED="1452596406077" ID="ID_188499445" MODIFIED="1453183816836" TEXT="IMSDK&#x521d;&#x59cb;&#x5316;&#x5931;&#x8d25;">
 <node CREATED="1452596406077" ID="ID_188509445" MODIFIED="1453183804687" TEXT="&#x9519;&#x8bef;&#x53f7;(errorcode)&#x4e3a;101"/>
 </node>
@@ -85,7 +85,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1452596406077" ID="ID_189099445" MODIFIED="1452596406077" POSITION="right" TEXT="UI&#x9875;&#x9762;&#x3001;&#x81ea;&#x5b9a;&#x4e49;UI&#x7b49;">
+<node CREATED="1452596406077" FOLDED="true" ID="ID_189099445" MODIFIED="1453688598178" POSITION="right" TEXT="UI&#x9875;&#x9762;&#x3001;&#x81ea;&#x5b9a;&#x4e49;UI&#x7b49;">
 <node CREATED="1452596406077" ID="ID_189109445" LINK="http://bbs.aliyun.com/read/270365.html?spm=5176.bbsl285.0.0.pnUKAz" MODIFIED="1452596406077" TEXT="&#x5934;&#x50cf;"/>
 <node CREATED="1452596406077" ID="ID_189119445" LINK="http://bbs.aliyun.com/read/270371.html?displayMode=1" MODIFIED="1452596406077" TEXT="&#x4fee;&#x6539;&#x76ae;&#x80a4;&#x3001;&#x81ea;&#x5b9a;&#x4e49;&#x8d44;&#x6e90;&#x5305;&#x76f8;&#x5173;&#x95ee;&#x9898;">
 <node CREATED="1452596406077" ID="ID_189129445" MODIFIED="1453184692906" TEXT="&#x4fee;&#x6539;&#x76ae;&#x80a4;&#x7684;&#x65b9;&#x5f0f;&#x6709;&#x54ea;&#x4e9b;&#xff0c;&#x5982;&#x4f55;&#x4fee;&#x6539;&#x76ae;&#x80a4;"/>
@@ -174,7 +174,7 @@
 <node CREATED="1452596406077" ID="ID_189769445" MODIFIED="1452596406077" TEXT="&#x7fa4;&#x804a;&#x662f;&#x5426;&#x652f;&#x6301;emoji&#x8868;&#x60c5;"/>
 </node>
 </node>
-<node CREATED="1452596406077" ID="ID_189779445" MODIFIED="1452596406077" POSITION="right" TEXT="&#x804a;&#x5929;&#x3001;&#x6d88;&#x606f;">
+<node CREATED="1452596406077" FOLDED="true" ID="ID_189779445" MODIFIED="1453702961453" POSITION="right" TEXT="&#x804a;&#x5929;&#x3001;&#x6d88;&#x606f;">
 <node CREATED="1452596406077" ID="ID_189789445" LINK="http://bbs.aliyun.com/read/270398.html?displayMode=1" MODIFIED="1452596406077" TEXT="&#x4f1a;&#x8bdd;&#x63a5;&#x53e3;">
 <node CREATED="1452596406077" ID="ID_189799445" MODIFIED="1453186471499" TEXT="&#x5982;&#x4f55;&#x83b7;&#x53d6;&#x4f1a;&#x8bdd;&#xff0c;&#x521b;&#x5efa;&#x4f1a;&#x8bdd;">
 <node CREATED="1452596406077" ID="ID_189809445" MODIFIED="1453186482049" TEXT="&#x5982;&#x4f55;&#x83b7;&#x53d6;&#x67d0;&#x4e2a;&#x4f1a;&#x8bdd;&#xff0c;&#x521b;&#x5efa;&#x4f1a;&#x8bdd;">
@@ -231,12 +231,15 @@
 <node CREATED="1452596406077" ID="ID_190179445" MODIFIED="1452596406077" TEXT="WXOMessageObject&#x5bf9;&#x8c61;&#x5982;&#x4f55;&#x89e3;&#x6790;"/>
 </node>
 </node>
-<node CREATED="1452596406077" ID="ID_190189445" MODIFIED="1452596406077" TEXT="&#x6d88;&#x606f;&#x64cd;&#x4f5c;">
+<node CREATED="1452596406077" FOLDED="true" ID="ID_190189445" MODIFIED="1453695367940" TEXT="&#x6d88;&#x606f;&#x64cd;&#x4f5c;">
 <node CREATED="1452596406077" ID="ID_190199445" MODIFIED="1452596406077" TEXT="&#x5982;&#x4f55;&#x5220;&#x9664;&#x5355;&#x6761;&#x6d88;&#x606f;"/>
 <node CREATED="1452596406077" ID="ID_190209445" MODIFIED="1452596406077" TEXT="&#x6d88;&#x606f;&#x7684;&#x5df2;&#x8bfb;&#x672a;&#x8bfb;">
 <node CREATED="1452596406077" ID="ID_190219445" MODIFIED="1452596406077" TEXT="&#x63a5;&#x6536;&#x5230;&#x7684;&#x6d88;&#x606f;&#xff0c;&#x81ea;&#x5df1;&#x5df2;&#x8bfb;&#x672a;&#x8bfb;"/>
 <node CREATED="1452596406077" ID="ID_190229445" MODIFIED="1452596406077" TEXT="&#x53d1;&#x9001;&#x7684;&#x6d88;&#x606f;&#xff0c;&#x5bf9;&#x65b9;&#x5df2;&#x8bfb;&#x672a;&#x8bfb;"/>
 </node>
+</node>
+<node CREATED="1453695368378" ID="ID_1532329159" LINK="https://bbs.aliyun.com/read/271485.html?displayMode=1&amp;page=e#a" MODIFIED="1453695460876" TEXT="&#x6d88;&#x606f;&#x5185;&#x5bb9;">
+<node CREATED="1453695381901" ID="ID_173487523" MODIFIED="1453695402516" TEXT="&#x5982;&#x4f55;&#x83b7;&#x53d6;&#x56fe;&#x7247;&#x6d88;&#x606f;&#x3001;&#x8bed;&#x97f3;&#x6d88;&#x606f;&#x6570;&#x636e;&#xff1f;&#x6709;URL&#x5417;&#xff1f;"/>
 </node>
 </node>
 <node CREATED="1452596406077" ID="ID_190239445" LINK="http://bbs.aliyun.com/read/263181.html?spm=0.0.0.0.KLAqcW" MODIFIED="1452596406077" TEXT="YWPerson">
@@ -256,10 +259,11 @@
 </node>
 <node CREATED="1452596406077" ID="ID_190349445" LINK="http://bbs.aliyun.com/read/270404.html?displayMode=1" MODIFIED="1452596406077" TEXT="Push&#x63a8;&#x9001;&#x76f8;&#x5173;&#x7684;&#x95ee;&#x9898;">
 <node CREATED="1452596406077" ID="ID_190359445" MODIFIED="1453186961983" TEXT="&#x6ca1;&#x6709;&#x6536;&#x5230;&#x63a8;&#x9001;&#xff0c;&#x6536;&#x4e0d;&#x5230;&#x63a8;&#x9001;"/>
-<node CREATED="1452596406077" ID="ID_190369445" MODIFIED="1452596406077" TEXT="&#x73af;&#x5883;&#x53ca;&#x8bc1;&#x4e66;&#x76f8;&#x5173;">
+<node CREATED="1452596406077" ID="ID_190369445" MODIFIED="1453689321480" TEXT="&#x73af;&#x5883;&#x53ca;&#x8bc1;&#x4e66;&#x76f8;&#x5173;">
 <node CREATED="1452596406077" ID="ID_190379445" MODIFIED="1452596406077" TEXT="&#x53ea;&#x652f;&#x6301;&#x751f;&#x4ea7;&#x73af;&#x5883;&#x7684;&#x63a8;&#x9001;"/>
 <node CREATED="1452596406077" ID="ID_190389445" MODIFIED="1452596406077" TEXT="&#x53ea;&#x652f;&#x6301;&#x5355;&#x4e2a;&#x8bc1;&#x4e66;"/>
 <node CREATED="1452596406077" ID="ID_190399445" MODIFIED="1452596406077" TEXT="p12&#x6587;&#x4ef6;&#x662f;&#x4e0d;&#x662f;&#x5fc5;&#x987b;&#x8bbe;&#x7f6e;&#x5bc6;&#x7801;"/>
+<node CREATED="1453689326185" ID="ID_630206487" MODIFIED="1453689346264" TEXT="&#x6c99;&#x7bb1;&#x73af;&#x5883;&#x8bc1;&#x4e66;&#x662f;&#x5426;&#x6709;&#x7528;&#xff1f;"/>
 </node>
 <node CREATED="1452596406077" ID="ID_190409445" MODIFIED="1452596406077" TEXT="&#x5982;&#x4f55;&#x5355;&#x6b65;&#x8c03;&#x8bd5;push"/>
 <node CREATED="1452596406077" ID="ID_190419445" MODIFIED="1452596406077" TEXT="push&#x6587;&#x6848;&#x76f8;&#x5173;">
@@ -277,13 +281,13 @@
 <node CREATED="1452596406077" ID="ID_190509445" MODIFIED="1452596406077" TEXT="AdHoc&#x6253;&#x5305;&#x7684;crash"/>
 </node>
 <node CREATED="1452596406077" ID="ID_190519445" LINK="http://bbs.aliyun.com/read/270424.html?displayMode=1" MODIFIED="1452596406077" TEXT="&#x7fa4;&#x804a;&#x63a5;&#x53e3;">
-<node CREATED="1452596406077" ID="ID_190529445" MODIFIED="1452596406077" TEXT="&#x5982;&#x4f55;&#x83b7;&#x5f97;YWTribe&#x5bf9;&#x8c61;"/>
+<node CREATED="1452596406077" ID="ID_190529445" MODIFIED="1453689284351" TEXT="&#x5982;&#x4f55;&#x83b7;&#x5f97;YWTribe&#x5bf9;&#x8c61;&#xff0c;&#x5982;&#x4f55;&#x901a;&#x8fc7;tribeId"/>
 <node CREATED="1452596406077" ID="ID_190539445" MODIFIED="1452596406077" TEXT="&#x7fa4;&#x7cfb;&#x7edf;&#x6d88;&#x606f;&#x5982;&#x4f55;&#x83b7;&#x5f97;&#x5177;&#x4f53;&#x7684;&#x4eba;&#x5458;&#x7b49;&#x4fe1;&#x606f;"/>
 <node CREATED="1452596406077" ID="ID_190549445" MODIFIED="1452596406077" TEXT="&#x6dfb;&#x52a0;&#x6210;&#x5458;&#x8fdb;&#x7fa4;&#xff0c;&#x6ca1;&#x6709;&#x53cd;&#x5e94;"/>
 <node CREATED="1452596406077" ID="ID_190559445" MODIFIED="1452596406077" TEXT="&#x521b;&#x5efa;&#x7fa4;&#x65f6;&#x53ea;&#x6709;&#x521b;&#x5efa;&#x8005;&#x8fdb;&#x5165;&#x7fa4;&#xff0c;&#x5176;&#x4ed6;&#x6210;&#x5458;&#x6ca1;&#x6709;&#x8fdb;&#x7fa4;"/>
 </node>
 </node>
-<node CREATED="1452596406077" ID="ID_190569445" LINK="http://bbs.aliyun.com/read/270427.html?displayMode=1" MODIFIED="1452596406077" POSITION="right" TEXT="&#x5ba2;&#x670d;&#x5e73;&#x53f0;&#x76f8;&#x5173;">
+<node CREATED="1452596406077" FOLDED="true" ID="ID_190569445" LINK="http://bbs.aliyun.com/read/270427.html?displayMode=1" MODIFIED="1453688602442" POSITION="right" TEXT="&#x5ba2;&#x670d;&#x5e73;&#x53f0;&#x76f8;&#x5173;">
 <node CREATED="1452596406077" ID="ID_190579445" MODIFIED="1452596406077" TEXT="&#x60f3;&#x96c6;&#x6210;&#x5ba2;&#x670d;&#x529f;&#x80fd;&#xff0c;&#x600e;&#x4e48;&#x64cd;&#x4f5c;">
 <node CREATED="1452596406077" ID="ID_190589445" MODIFIED="1452596406077" TEXT="&#x662f;&#x5426;&#x8fd8;&#x662f;&#x5f97;&#x521d;&#x59cb;&#x5316;&#x7b49;&#x64cd;&#x4f5c;"/>
 </node>
@@ -304,7 +308,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1452596406077" ID="ID_190719445" LINK="http://bbs.aliyun.com/read/270436.html?displayMode=1" MODIFIED="1452596406077" POSITION="right" TEXT="&#x65e5;&#x5fd7;&#x3001;&#x5e38;&#x89c1;Crash&#x3001;&#x7f16;&#x8bd1;&#x3001;&#x6253;&#x5305;&#x3001;&#x5347;&#x7ea7;&#x95ee;&#x9898;">
+<node CREATED="1452596406077" FOLDED="true" ID="ID_190719445" LINK="http://bbs.aliyun.com/read/270436.html?displayMode=1" MODIFIED="1453688604178" POSITION="right" TEXT="&#x65e5;&#x5fd7;&#x3001;&#x5e38;&#x89c1;Crash&#x3001;&#x7f16;&#x8bd1;&#x3001;&#x6253;&#x5305;&#x3001;&#x5347;&#x7ea7;&#x95ee;&#x9898;">
 <node CREATED="1452596406077" ID="ID_190729445" MODIFIED="1452596406077" TEXT="&#x7279;&#x5b9a;&#x65e5;&#x5fd7;">
 <node CREATED="1452596406077" ID="ID_190739445" MODIFIED="1452596406077" TEXT="sg error">
 <node CREATED="1452596406077" ID="ID_190749445" MODIFIED="1452596406077" TEXT="&#x767e;&#x5ddd;&#x5e93;&#x786e;&#x4fdd;&#x4f7f;&#x7528;&#x6700;&#x65b0;"/>
@@ -348,7 +352,7 @@
 <node CREATED="1452596406077" ID="ID_191029445" MODIFIED="1452596406077" TEXT="&#x652f;&#x6301;&#x7684;&#x6700;&#x4f4e;&#x7cfb;&#x7edf;&#x7248;&#x672c;&#x662f;&#x4ec0;&#x4e48;"/>
 <node CREATED="1452596406077" ID="ID_191039445" MODIFIED="1452596406077" TEXT="&#x5982;&#x4f55;&#x5347;&#x7ea7;OpenIM"/>
 </node>
-<node CREATED="1452596406077" ID="ID_191049445" LINK="http://bbs.aliyun.com/read/270443.html?spm=0.0.0.0.QLeGT3" MODIFIED="1452596406077" POSITION="right" TEXT="&#x5176;&#x4ed6;&#x5e73;&#x53f0;&#x548c;&#x4ea7;&#x54c1;&#x7684;&#x95ee;&#x9898;">
+<node CREATED="1452596406077" ID="ID_191049445" LINK="http://bbs.aliyun.com/read/270443.html?spm=0.0.0.0.QLeGT3" MODIFIED="1453702964491" POSITION="right" TEXT="&#x5176;&#x4ed6;&#x5e73;&#x53f0;&#x548c;&#x4ea7;&#x54c1;&#x7684;&#x95ee;&#x9898;">
 <node CREATED="1452596406077" ID="ID_191059445" MODIFIED="1452596406077" TEXT="&#x4e0d;&#x540c;&#x5e73;&#x53f0;&#x8bf7;&#x54a8;&#x8be2;">
 <node CREATED="1452596406077" ID="ID_191069445" MODIFIED="1452596406077" TEXT="Android">
 <node CREATED="1452596406077" ID="ID_191079445" MODIFIED="1452596406077" TEXT="openim&#x5b98;&#x65b9;&#x5ba2;&#x670d;:android"/>
@@ -369,6 +373,7 @@
 </node>
 <node CREATED="1452596406077" ID="ID_191189445" MODIFIED="1452596406077" TEXT="&#x5176;&#x4ed6;&#x4ea7;&#x54c1;">
 <node CREATED="1452596406077" ID="ID_191199445" MODIFIED="1452596406077" TEXT="&#x4e91;&#x63a8;&#x9001;&#xff08;CloudPushSDK&#xff09;"/>
+<node CREATED="1453702974521" ID="ID_1435061193" MODIFIED="1453702980234" TEXT="&#x591a;&#x5a92;&#x4f53;&#x670d;&#x52a1;"/>
 <node CREATED="1452596406077" ID="ID_191209445" MODIFIED="1452596406077" TEXT="&#x767e;&#x5ddd;&#x57fa;&#x7840;&#x5e93;"/>
 <node CREATED="1452596406077" ID="ID_191219445" MODIFIED="1452596406077" TEXT="&#x767e;&#x5ddd;&#x540e;&#x53f0;"/>
 </node>
